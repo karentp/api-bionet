@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  copy_number: 1.5
+  expression: 1.5
+  datasource: 
+  line: 
+  gene: 
+
+two:
+  copy_number: 1.5
+  expression: 1.5
+  datasource: 
+  line: 
+  gene: 
